@@ -10,8 +10,8 @@ Things you may want to cover:
 
 * Database Name : password_hash
 Steps : 
-1) Download Project
-2) Bundle install
+1) Download Project <br>
+2) Bundle install <br>
 3) Configure database
 4) Migrate DB
 5) Start the rails server
